@@ -55,7 +55,6 @@ install:
   # about it being out of date.
   - "python -m pip install -U pip"
   - "python -m pip install -U setuptools"
-
   # Prepare test utility
   - "python -m pip install click"
 

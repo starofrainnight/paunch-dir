@@ -12,6 +12,8 @@ matrix:
 install:
   - python -m pip install -U pip
   - python -m pip install -U setuptools
+  # Prepare test utility
+  - python -m pip install click
 
 # command to run tests, e.g. python setup.py test
 script:
