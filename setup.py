@@ -26,7 +26,7 @@ tests_requires = [
 
 setup(
     name='paunch-dir',
-    version='0.0.3',
+    version='0.0.4',
     description="An algorithm to generate a path from file name which directory structure could store mass files",
     long_description=long_description,
     author="Hong-She Liang",
