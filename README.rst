@@ -43,7 +43,7 @@ Usage
 --------
 
 
-::
+.. code-block:: python
 
     from paunchdir import PaunchDir
 
